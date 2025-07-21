@@ -4,6 +4,8 @@ from sentence_transformers import SentenceTransformer
 import chromadb
 from pathlib import Path
 import os
+from google.adk.sessions import VertexAiSessionService, InMemorySessionService  
+from google.adk.memory import VertexAiRagMemoryService, InMemoryMemoryService
 
 class VectorSearchTool:
     """Tool for semantic search over the indexed codebase"""
