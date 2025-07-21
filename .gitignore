@@ -2,8 +2,6 @@
 venv/
 env/
 ENV/
-README.md
-README_2.md
 coding_agent/.env
 .adk_index/
 
