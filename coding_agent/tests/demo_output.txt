@@ -1,0 +1,2 @@
+This is demo content created by the FileSystemTool.
+It demonstrates secure file writing within the project directory.

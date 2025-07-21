@@ -1,0 +1,17 @@
+google-adk
+google-cloud-aiplatform
+# Vector database and embeddings
+chromadb
+sentence-transformers
+# LSP add
+multilspy
+# Code parsing
+tree-sitter
+tree-sitter-python
+tree-sitter-javascript
+tree-sitter-typescript
+asyncio-mqtt==0.16.1
+watchdog==3.0.0
+# tempfile and shutil are built-in Python modules, no need to install but added because of a linter
+tiktoken==0.5.2
+numpy==1.24.3 
