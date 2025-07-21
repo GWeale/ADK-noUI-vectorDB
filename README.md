@@ -6,3 +6,7 @@ A coding assistant agent for codebase understanding, semantic search, and Langua
 - **Semantic Code Search:** Find code, files, and concepts using natural language searches.
 - **Codebase Indexing:** Index the codebase to semantically search content.
 - **LSP Integration:** Get go-to-definition, and reference finding.
+
+Below is a screenshot showing the coding agent in action:
+
+![Coding Agent Example](coding_agent.png)
